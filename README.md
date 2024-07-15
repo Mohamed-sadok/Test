@@ -77,4 +77,9 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 
 <br />
 
+
+
+Ceci est un test
+
+
 [![Brought to you by Thinkster](https://raw.githubusercontent.com/gothinkster/realworld/master/media/end.png)](https://thinkster.io)
